@@ -1,6 +1,6 @@
 """Tests para sensor_temperatura.py — Monitoreo IoT."""
 
-import sensor_temperatura as st
+import fabrica_de_software_practico.sensor_temperatura as st
 
 
 class TestRegistrarSensor:
